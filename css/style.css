@@ -3,8 +3,7 @@ body {
 	background-color: #e2e2e2;
 	min-width: 960px;
 	margin: 0;
-	
-}
+
 body, p, h1, h2, h3, a {
     transition: background-color 0.5s ease, color 0.5s ease;
 }
